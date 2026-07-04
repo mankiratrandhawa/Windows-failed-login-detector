@@ -1,0 +1,20 @@
+Date: 2024-01-15 14:23:45
+Event ID: 4625
+Account For Which Logon Failed:
+    Account Name:    Administrator
+Network Information:
+    Source Network Address: 192.168.1.100
+
+Date: 2024-01-15 14:24:10
+Event ID: 4625
+Account For Which Logon Failed:
+    Account Name:    jsmith
+Network Information:
+    Source Network Address: 10.0.0.50
+
+Date: 2024-01-15 14:25:30
+Event ID: 4625
+Account For Which Logon Failed:
+    Account Name:    root
+Network Information:
+    Source Network Address: 203.0.113.45
